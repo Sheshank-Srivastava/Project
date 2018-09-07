@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+}
+
+.name{
+    font-size: 5em;
+    color: #18ba18;
+    font-weight: 900;
+}
+
+.navigation{
+    list-style: none;
+    margin: 0 auto;
+}
+.navigation li{
+    display: inline-block;
+    margin: 1em;
+}
+.navigation a{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0.5em;
+    color:;
+}
+
+.intro{
+    background: url(img/metro_bg.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
